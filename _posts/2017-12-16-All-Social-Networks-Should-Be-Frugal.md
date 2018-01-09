@@ -3,13 +3,17 @@ layout: post
 title: All Social Networks Should Be Frugal
 ---
 
-A month ago, Mastodon 2.0 was released which added custom emojos. People immediately started to add them.
+Last year, Mastodon 2.0 was released which added custom emojos. People immediately started to add them. SoonerLater, there is a huge overload of emojos.
 
-A week later, there is a huge overload of emojos. One or two persons' request is required to pass addition of an emojo to an instance.
+One or two persons' request is quite enough to pass addition of an emojo to an instance.
 
-A competition started of 'as much emojos as possible', and who won, you'd guess? Japanese instances, of course.
+A competition started of 'as much emojos as possible', and who won, you'd guess? Of course it's the Japanese instances.
 
-[***Edit 2018-01-09**: There was a Longway part here which no longer applies, as I abandoned the project. The original idea, however, is here to stay.*]
+[***Edit 2018-01-09**: There was a Longway part here which no longer applies, as I abandoned the project. The original idea, however, is here to stay.
+
+Also, reworded post.
+
+Also, it's 2018, fam.*]
 
 ## It's not meant to be this way
 
