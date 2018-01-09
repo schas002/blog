@@ -3,19 +3,13 @@ layout: post
 title: All Social Networks Should Be Frugal
 ---
 
-A main ingredient of Longway, my federated blog provider project, is **being frugal**. Separate features are to be added by instance servers, and they are meant to only be added ***on popular demand*** of users at the specific instance.
-
-This doesn't just apply to Longway, this applies to every self-hosted social thing at all.
-
-The main user story here is Mastodon.
-
-## The story of custom emojos
-
 A month ago, Mastodon 2.0 was released which added custom emojos. People immediately started to add them.
 
 A week later, there is a huge overload of emojos. One or two persons' request is required to pass addition of an emojo to an instance.
 
 A competition started of 'as much emojos as possible', and who won, you'd guess? Japanese instances, of course.
+
+[***Edit 2018-01-09**: There was a Longway part here which no longer applies, as I abandoned the project. The original idea, however, is here to stay.*]
 
 ## It's not meant to be this way
 
