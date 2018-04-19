@@ -3,7 +3,7 @@ layout: post
 title: The Fediverse of the Future
 ---
 
-Right now, we're using the Fediverse, the network of decentralized interconnected computers that run continially to provide quality service. Quality service must be provided by users, too.
+Right now, we're using the Fediverse, the network of decentralized interconnected computers that run continually to provide quality service. Quality service must be provided by users, too.
 
 **Unfortunately, quality service is not provided by users**.
 
