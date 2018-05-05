@@ -22,11 +22,11 @@ I *am* saying you **MUST** change. I'm introducing awareness to the issue that i
 ## Take action now.
 
 - 'Make your app run on a 64 MiB machine with 2 GiB of disk space.' That's the challenge. Break a leg.
-- Introduce yourself to [Windows 98](https://en.wikipedia.org/wiki/Windows_98), one of the inspirations behind the challenge. Then compare with your ten. (Hah. ![:thinkerguns:](/img/emojos/thinkerguns.png ":thinkerguns:"))
+- Introduce yourself to [Windows 98](https://en.wikipedia.org/wiki/Windows_98), one of the inspirations behind the challenge. Then compare with your ten. (Hah.)
 - Use the hashtag **`#Win98Challenge`** <small>[twitter](https://twitter.com/hashtag/Win98Challenge) &middot; [mastodon.social](https://mastodon.social/tags/Win98Challenge)</small>.
 
-[*TODO More coming soon. ![:thinkerguns:](/img/emojos/thinkerguns.png ":thinkerguns:")*]
+[*TODO More coming soon.*]
 
 * * *
 
-I'm not aspiring to have all the credit. I know there's already attempts to reach frugality. But I hope changes will happen.
+I don't aspire to have all the credit. I know there's already attempts to reach frugality. But I hope changes will happen.
